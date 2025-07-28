@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Tonanez
 
-### 🧠 Student Developer | Web & AI Tools | UCF CS '27  
+### 🧠 Student Developer | Backend & Data Structures | UCF CS '27  
 📍 Orlando, FL | 🌐 Bilingual (English/Spanish)
 
 ---
@@ -13,12 +13,12 @@
 
 ## 🧩 About Me
 
-I'm a Computer Science student at the University of Central Florida with experience building web tools, automating workflows, and integrating AI into creative and technical projects.
+I'm a Computer Science student at the University of Central Florida currently interning as a Software Engineering Intern. I’ve worked on backend tooling, algorithmic problem solving, and improving internal workflows.
 
-- 💻 Intern @ Tecalemit Inc. | RESTful APIs + internal tooling  
-- 📚 Studying: Software Dev, AI, Data Structures, Human-Centered Computing  
+- 💻 Intern @ Tecalemit Inc. | Debugging, internal tools, and team development  
+- 📚 Studying: Software Dev, Algorithms, Data Structures, Web Development  
 - 🧠 Clubs: Hack@UCF, Ai@UCF, KnightHacks  
-- 🌱 Learning: Node.js, Prompt Engineering, Cloud Functions  
+- 🌱 Learning: Node.js, full-stack web apps, debugging practices  
 
 ---
 
@@ -26,26 +26,26 @@ I'm a Computer Science student at the University of Central Florida with experie
 
 <div align="center">
 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-## 📌 Projects (Coming Soon)
+## 📁 Key Projects
 
-> These are some of the projects I’ve worked on and will be uploading soon:
+> Currently uploading course-based and personal Java projects — stay tuned!
 
-- 🔗 YouTube Clone – Responsive front-end simulation *(repo coming soon)*
-- 🛍️ Web Shop Project – UI-focused ecommerce mockup *(repo coming soon)*
-- 🧠 AI Minecraft Logic System – Redstone-based problem solving *(repo coming soon)*
+- 🔢 **2-3-4 Tree in Java** – Full tree with proactive split and delete logic *(coming soon)*  
+- 📉 **Graph Algorithms Toolkit** – Dijkstra & Bellman-Ford from file input *(coming soon)*  
+- 📑 **Skip List Set** – Generics-based skip list with custom iterator *(coming soon)*  
 
 ---
 
@@ -56,7 +56,7 @@ I'm a Computer Science student at the University of Central Florida with experie
 <img src="https://github-readme-stats.vercel.app/api?username=lucastonanez&show_icons=true&theme=react" height="150" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucastonanez&theme=react" height="150" /> <br/>
 
-📝 Just getting started! Stats will grow as I continue learning and building. 🚀
+📝 Just getting started! Stats will grow as I keep learning and building. 🚀
 
 </div>
 
@@ -64,8 +64,8 @@ I'm a Computer Science student at the University of Central Florida with experie
 
 ## 📫 Let's Connect!
 
-- 📍 Orlando, FL
-- 📬 Email: ltonanez0623@gmail.com
+- 📍 Orlando, FL  
+- 📬 ltonanez0623@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/lucas-tonanez-187522273/)
 
 ---
