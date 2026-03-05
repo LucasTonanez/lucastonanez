@@ -8,7 +8,7 @@
 
 ---
 
-## 🔬 ML Projects (Coursework)
+## 🔬 ML Projects
 
 ### Face Recognition + Classification
 - **PCA (SVD) + CRC on LFW**  
