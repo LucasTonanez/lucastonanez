@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Tonanez
+# 👋 Hi, I'm Lucas Toñanez
 
 ### 🧠 Machine Learning Coursework Portfolio | UCF CS '27  
 📍 Orlando, FL | 🌐 Bilingual (English/Spanish)
