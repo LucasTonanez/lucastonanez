@@ -36,4 +36,4 @@ Python • NumPy • scikit-learn • PyTorch • PCA/SVD • CRC • SVM (Linea
 ---
 
 ## 📫 Connect
-- LinkedIn: https://www.linkedin.com/in/lucas-tonanez-187522273/
+- LinkedIn: https://www.linkedin.com/in/lucastonanez/
