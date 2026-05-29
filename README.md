@@ -3,7 +3,7 @@
 ### 🧠 Machine Learning Coursework Portfolio | UCF CS '27  
 📍 Orlando, FL | 🌐 Bilingual (English/Spanish)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasTonanez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucas-tonanez-187522273/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LucasTonanez-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lucastonanez/)
 [![GitHub followers](https://img.shields.io/github/followers/LucasTonanez?label=Follow&style=social)](https://github.com/LucasTonanez)
 
 ---
