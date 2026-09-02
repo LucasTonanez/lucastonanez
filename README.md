@@ -43,7 +43,7 @@ Linear and RBF SVM face classification on LFW with standardized preprocessing, v
 Comparison of fully connected and convolutional neural networks for MNIST classification, including normalization, augmentation, and model-performance analysis.
 
 ### [Gasoline Price Prediction](https://github.com/LucasTonanez/gas-price-predictor)
-Machine-learning project using real-world gasoline and oil-price data to predict next-day Gulf Coast gasoline prices.
+Time-series forecasting project using FRED gasoline and WTI crude-oil data, comparing persistence, Linear, Ridge, and Random Forest models under chronological holdout evaluation.
 
 ### [MERN Video Game Store](https://github.com/LucasTonanez/MERN-Video-Game-Store)
 Full-stack MERN marketplace with authentication, product browsing, protected routes, and MongoDB-backed account functionality.
